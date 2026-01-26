@@ -1,0 +1,3522 @@
+{
+	"type": "FeatureCollection",
+	"name": "BancsJosaphat1030",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.39156070351601,
+					50.8608041513579
+				]
+			},
+			"properties": {
+				"id": 1,
+				"CodeID": "BP-0001",
+				"TypePatrimoine": "banc public",
+				"Model": "Pierre",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0001.jpg",
+				"Longitude": 4.39156070351601,
+				"Latitude": 50.8608041513579
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.39017131924629,
+					50.8596249425149
+				]
+			},
+			"properties": {
+				"id": 2,
+				"CodeID": "BP-0002",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Pieds c remplacer",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0002.jpg",
+				"Longitude": 4.39017131924629,
+				"Latitude": 50.8596249425149
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38981124403118,
+					50.8599074836207
+				]
+			},
+			"properties": {
+				"id": 3,
+				"CodeID": "BP-0003",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0003.jpg",
+				"Longitude": 4.38981124403118,
+				"Latitude": 50.8599074836207
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38991535329706,
+					50.8599151155802
+				]
+			},
+			"properties": {
+				"id": 4,
+				"CodeID": "BP-0004",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0004.jpg",
+				"Longitude": 4.38991535329706,
+				"Latitude": 50.8599151155802
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38999697566032,
+					50.8599576297238
+				]
+			},
+			"properties": {
+				"id": 5,
+				"CodeID": "BP-0005",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0005.jpg",
+				"Longitude": 4.38999697566032,
+				"Latitude": 50.8599576297238
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.39015656709671,
+					50.8600024957561
+				]
+			},
+			"properties": {
+				"id": 6,
+				"CodeID": "BP-0006",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0006.jpg",
+				"Longitude": 4.39015656709671,
+				"Latitude": 50.8600024957561
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.39030093344854,
+					50.8600364671692
+				]
+			},
+			"properties": {
+				"id": 7,
+				"CodeID": "BP-0007",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0007.jpg",
+				"Longitude": 4.39030093344854,
+				"Latitude": 50.8600364671692
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.39040215274917,
+					50.8600725301932
+				]
+			},
+			"properties": {
+				"id": 8,
+				"CodeID": "BP-0008",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0008.jpg",
+				"Longitude": 4.39040215274917,
+				"Latitude": 50.8600725301932
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38932805610975,
+					50.8599339129672
+				]
+			},
+			"properties": {
+				"id": 9,
+				"CodeID": "BP-0009",
+				"TypePatrimoine": "banc public",
+				"Model": "Tronc sculpte",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0009.jpg",
+				"Longitude": 4.38932805610975,
+				"Latitude": 50.8599339129672
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38942968845368,
+					50.860297933268
+				]
+			},
+			"properties": {
+				"id": 10,
+				"CodeID": "BP-0010",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0010.jpg",
+				"Longitude": 4.38942968845368,
+				"Latitude": 50.860297933268
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3892416875326,
+					50.8603775063752
+				]
+			},
+			"properties": {
+				"id": 11,
+				"CodeID": "BP-0011",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0011.jpg",
+				"Longitude": 4.3892416875326,
+				"Latitude": 50.8603775063752
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38906222581863,
+					50.8604757027885
+				]
+			},
+			"properties": {
+				"id": 12,
+				"CodeID": "BP-0012",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0012.jpg",
+				"Longitude": 4.38906222581863,
+				"Latitude": 50.8604757027885
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38904210925102,
+					50.8606229970207
+				]
+			},
+			"properties": {
+				"id": 13,
+				"CodeID": "BP-0013",
+				"TypePatrimoine": "banc public",
+				"Model": "Circulaire planches bois et pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0013.jpg",
+				"Longitude": 4.38904210925102,
+				"Latitude": 50.8606229970207
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38953791068665,
+					50.8607841502823
+				]
+			},
+			"properties": {
+				"id": 14,
+				"CodeID": "BP-0014",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0014.jpg",
+				"Longitude": 4.38953791068665,
+				"Latitude": 50.8607841502823
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38948936760426,
+					50.8607897606186
+				]
+			},
+			"properties": {
+				"id": 15,
+				"CodeID": "BP-0015",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0015.jpg",
+				"Longitude": 4.38948936760426,
+				"Latitude": 50.8607897606186
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38947432931172,
+					50.8607917101226
+				]
+			},
+			"properties": {
+				"id": 16,
+				"CodeID": "BP-0016",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0016.jpg",
+				"Longitude": 4.38947432931172,
+				"Latitude": 50.8607917101226
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38946276662364,
+					50.8607942907275
+				]
+			},
+			"properties": {
+				"id": 17,
+				"CodeID": "BP-0017",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0017.jpg",
+				"Longitude": 4.38946276662364,
+				"Latitude": 50.8607942907275
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38943639397621,
+					50.860815156038
+				]
+			},
+			"properties": {
+				"id": 18,
+				"CodeID": "BP-0018",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0018.jpg",
+				"Longitude": 4.38943639397621,
+				"Latitude": 50.860815156038
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38941910652737,
+					50.8608379631011
+				]
+			},
+			"properties": {
+				"id": 19,
+				"CodeID": "BP-0019",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0019.jpg",
+				"Longitude": 4.38941910652737,
+				"Latitude": 50.8608379631011
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38942566514015,
+					50.8608570584498
+				]
+			},
+			"properties": {
+				"id": 20,
+				"CodeID": "BP-0020",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0020.jpg",
+				"Longitude": 4.38942566514015,
+				"Latitude": 50.8608570584498
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38943926284424,
+					50.860868863259
+				]
+			},
+			"properties": {
+				"id": 21,
+				"CodeID": "BP-0021",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0021.jpg",
+				"Longitude": 4.38943926284424,
+				"Latitude": 50.860868863259
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3894612044096,
+					50.8608824538326
+				]
+			},
+			"properties": {
+				"id": 22,
+				"CodeID": "BP-0022",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0022.jpg",
+				"Longitude": 4.3894612044096,
+				"Latitude": 50.8608824538326
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38949957973364,
+					50.8608980034602
+				]
+			},
+			"properties": {
+				"id": 23,
+				"CodeID": "BP-0023",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0023.jpg",
+				"Longitude": 4.38949957973364,
+				"Latitude": 50.8608980034602
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38956271163079,
+					50.8608979867717
+				]
+			},
+			"properties": {
+				"id": 24,
+				"CodeID": "BP-0024",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0024.jpg",
+				"Longitude": 4.38956271163079,
+				"Latitude": 50.8608979867717
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38959196209908,
+					50.8608845701139
+				]
+			},
+			"properties": {
+				"id": 25,
+				"CodeID": "BP-0025",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0025.jpg",
+				"Longitude": 4.38959196209908,
+				"Latitude": 50.8608845701139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38961610198021,
+					50.8608659468353
+				]
+			},
+			"properties": {
+				"id": 26,
+				"CodeID": "BP-0026",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0026.jpg",
+				"Longitude": 4.38961610198021,
+				"Latitude": 50.8608659468353
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38962884247303,
+					50.8608469002928
+				]
+			},
+			"properties": {
+				"id": 27,
+				"CodeID": "BP-0027",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0027.jpg",
+				"Longitude": 4.38962884247303,
+				"Latitude": 50.8608469002928
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38962884247303,
+					50.8608299700263
+				]
+			},
+			"properties": {
+				"id": 28,
+				"CodeID": "BP-0028",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0028.jpg",
+				"Longitude": 4.38962884247303,
+				"Latitude": 50.8608299700263
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38962065650913,
+					50.8608131595437
+				]
+			},
+			"properties": {
+				"id": 29,
+				"CodeID": "BP-0029",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0029.jpg",
+				"Longitude": 4.38962065650913,
+				"Latitude": 50.8608131595437
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38960555845256,
+					50.8607977900253
+				]
+			},
+			"properties": {
+				"id": 30,
+				"CodeID": "BP-0030",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0030.jpg",
+				"Longitude": 4.38960555845256,
+				"Latitude": 50.8607977900253
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38935190439224,
+					50.8609793794163
+				]
+			},
+			"properties": {
+				"id": 31,
+				"CodeID": "BP-0031",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0031.jpg",
+				"Longitude": 4.38935190439224,
+				"Latitude": 50.8609793794163
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38844221886598,
+					50.8611163276489
+				]
+			},
+			"properties": {
+				"id": 32,
+				"CodeID": "BP-0032",
+				"TypePatrimoine": "banc public",
+				"Model": "Rocaille (table + bancs)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0032.jpg",
+				"Longitude": 4.38844221886598,
+				"Latitude": 50.8611163276489
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3881907098239,
+					50.8612276064652
+				]
+			},
+			"properties": {
+				"id": 33,
+				"CodeID": "BP-0033",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0033.jpg",
+				"Longitude": 4.3881907098239,
+				"Latitude": 50.8612276064652
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38780260941257,
+					50.8612594652166
+				]
+			},
+			"properties": {
+				"id": 34,
+				"CodeID": "BP-0034",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0034.jpg",
+				"Longitude": 4.38780260941257,
+				"Latitude": 50.8612594652166
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38745766493807,
+					50.8612339042765
+				]
+			},
+			"properties": {
+				"id": 35,
+				"CodeID": "BP-0035",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0035.jpg",
+				"Longitude": 4.38745766493807,
+				"Latitude": 50.8612339042765
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38712268019117,
+					50.8612586624984
+				]
+			},
+			"properties": {
+				"id": 36,
+				"CodeID": "BP-0036",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0036.jpg",
+				"Longitude": 4.38712268019117,
+				"Latitude": 50.8612586624984
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38699265373884,
+					50.8612946153909
+				]
+			},
+			"properties": {
+				"id": 37,
+				"CodeID": "BP-0037",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0037.jpg",
+				"Longitude": 4.38699265373884,
+				"Latitude": 50.8612946153909
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38815295696259,
+					50.860799918788
+				]
+			},
+			"properties": {
+				"id": 38,
+				"CodeID": "BP-0038",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0038.jpg",
+				"Longitude": 4.38815295696259,
+				"Latitude": 50.860799918788
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3885245774644,
+					50.8606541502547
+				]
+			},
+			"properties": {
+				"id": 39,
+				"CodeID": "BP-0039",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele A",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0039.jpg",
+				"Longitude": 4.3885245774644,
+				"Latitude": 50.8606541502547
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38863143389582,
+					50.8598686716288
+				]
+			},
+			"properties": {
+				"id": 40,
+				"CodeID": "BP-0040",
+				"TypePatrimoine": "banc public",
+				"Model": "Tronc sculpte",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0040.jpg",
+				"Longitude": 4.38863143389582,
+				"Latitude": 50.8598686716288
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38621014457209,
+					50.8615897017797
+				]
+			},
+			"properties": {
+				"id": 41,
+				"CodeID": "BP-0041",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0041.jpg",
+				"Longitude": 4.38621014457209,
+				"Latitude": 50.8615897017797
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38511624447951,
+					50.8620574835361
+				]
+			},
+			"properties": {
+				"id": 42,
+				"CodeID": "BP-0042",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0042.jpg",
+				"Longitude": 4.38511624447951,
+				"Latitude": 50.8620574835361
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38418060541153,
+					50.8617759392458
+				]
+			},
+			"properties": {
+				"id": 43,
+				"CodeID": "BP-0043",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0043.jpg",
+				"Longitude": 4.38418060541153,
+				"Latitude": 50.8617759392458
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38411690294743,
+					50.8623989563658
+				]
+			},
+			"properties": {
+				"id": 44,
+				"CodeID": "BP-0044",
+				"TypePatrimoine": "banc public",
+				"Model": "Rocaille (table + bancs)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0044.jpg",
+				"Longitude": 4.38411690294743,
+				"Latitude": 50.8623989563658
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3822480738163,
+					50.8626935322141
+				]
+			},
+			"properties": {
+				"id": 45,
+				"CodeID": "BP-0045",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele B",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0045.jpg",
+				"Longitude": 4.3822480738163,
+				"Latitude": 50.8626935322141
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3822635490892,
+					50.8627015232158
+				]
+			},
+			"properties": {
+				"id": 46,
+				"CodeID": "BP-0046",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele B",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0046.jpg",
+				"Longitude": 4.3822635490892,
+				"Latitude": 50.8627015232158
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38329066527331,
+					50.8630332939524
+				]
+			},
+			"properties": {
+				"id": 47,
+				"CodeID": "BP-0047",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0047.jpg",
+				"Longitude": 4.38329066527331,
+				"Latitude": 50.8630332939524
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38324451446533,
+					50.8630566705692
+				]
+			},
+			"properties": {
+				"id": 48,
+				"CodeID": "BP-0048",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0048.jpg",
+				"Longitude": 4.38324451446533,
+				"Latitude": 50.8630566705692
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38690170645714,
+					50.8619092622236
+				]
+			},
+			"properties": {
+				"id": 49,
+				"CodeID": "BP-0049",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0049.jpg",
+				"Longitude": 4.38690170645714,
+				"Latitude": 50.8619092622236
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38685677945614,
+					50.8619130714459
+				]
+			},
+			"properties": {
+				"id": 50,
+				"CodeID": "BP-0050",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0050.jpg",
+				"Longitude": 4.38685677945614,
+				"Latitude": 50.8619130714459
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38681855797768,
+					50.8618838674001
+				]
+			},
+			"properties": {
+				"id": 51,
+				"CodeID": "BP-0051",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0051.jpg",
+				"Longitude": 4.38681855797768,
+				"Latitude": 50.8618838674001
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38690438866615,
+					50.8618436589012
+				]
+			},
+			"properties": {
+				"id": 52,
+				"CodeID": "BP-0052",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele C",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0052.jpg",
+				"Longitude": 4.38690438866615,
+				"Latitude": 50.8618436589012
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38706621043086,
+					50.8616130420063
+				]
+			},
+			"properties": {
+				"id": 53,
+				"CodeID": "BP-0053",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0053.jpg",
+				"Longitude": 4.38706621043086,
+				"Latitude": 50.8616130420063
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3871179109099,
+					50.8615924835613
+				]
+			},
+			"properties": {
+				"id": 54,
+				"CodeID": "BP-0054",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0054.jpg",
+				"Longitude": 4.3871179109099,
+				"Latitude": 50.8615924835613
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38555654809634,
+					50.8632240854549
+				]
+			},
+			"properties": {
+				"id": 55,
+				"CodeID": "BP-0055",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0055.jpg",
+				"Longitude": 4.38555654809634,
+				"Latitude": 50.8632240854549
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3854836803957,
+					50.8633009884009
+				]
+			},
+			"properties": {
+				"id": 56,
+				"CodeID": "BP-0056",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0056.jpg",
+				"Longitude": 4.3854836803957,
+				"Latitude": 50.8633009884009
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38545791103387,
+					50.8633474835417
+				]
+			},
+			"properties": {
+				"id": 57,
+				"CodeID": "BP-0057",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0057.jpg",
+				"Longitude": 4.38545791103387,
+				"Latitude": 50.8633474835417
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38537821173668,
+					50.8634020302969
+				]
+			},
+			"properties": {
+				"id": 58,
+				"CodeID": "BP-0058",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0058.jpg",
+				"Longitude": 4.38537821173668,
+				"Latitude": 50.8634020302969
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38532590866089,
+					50.8634481627139
+				]
+			},
+			"properties": {
+				"id": 59,
+				"CodeID": "BP-0059",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0059.jpg",
+				"Longitude": 4.38532590866089,
+				"Latitude": 50.8634481627139
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38500136137009,
+					50.8638002912186
+				]
+			},
+			"properties": {
+				"id": 60,
+				"CodeID": "BP-0060",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0060.jpg",
+				"Longitude": 4.38500136137009,
+				"Latitude": 50.8638002912186
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38494124440505,
+					50.8638774835342
+				]
+			},
+			"properties": {
+				"id": 61,
+				"CodeID": "BP-0061",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0061.jpg",
+				"Longitude": 4.38494124440505,
+				"Latitude": 50.8638774835342
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38487791107196,
+					50.8639841502019
+				]
+			},
+			"properties": {
+				"id": 62,
+				"CodeID": "BP-0062",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0062.jpg",
+				"Longitude": 4.38487791107196,
+				"Latitude": 50.8639841502019
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38481957774208,
+					50.8641041501994
+				]
+			},
+			"properties": {
+				"id": 63,
+				"CodeID": "BP-0063",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0063.jpg",
+				"Longitude": 4.38481957774208,
+				"Latitude": 50.8641041501994
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38475325703621,
+					50.8642340997225
+				]
+			},
+			"properties": {
+				"id": 64,
+				"CodeID": "BP-0064",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0064.jpg",
+				"Longitude": 4.38475325703621,
+				"Latitude": 50.8642340997225
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38470791107687,
+					50.8643574835316
+				]
+			},
+			"properties": {
+				"id": 65,
+				"CodeID": "BP-0065",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0065.jpg",
+				"Longitude": 4.38470791107687,
+				"Latitude": 50.8643574835316
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.384704577738,
+					50.8644874835316
+				]
+			},
+			"properties": {
+				"id": 66,
+				"CodeID": "BP-0066",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0066.jpg",
+				"Longitude": 4.384704577738,
+				"Latitude": 50.8644874835316
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38455278963235,
+					50.8648943861433
+				]
+			},
+			"properties": {
+				"id": 67,
+				"CodeID": "BP-0067",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0067.jpg",
+				"Longitude": 4.38455278963235,
+				"Latitude": 50.8648943861433
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38456147909165,
+					50.8649561174141
+				]
+			},
+			"properties": {
+				"id": 68,
+				"CodeID": "BP-0068",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0068.jpg",
+				"Longitude": 4.38456147909165,
+				"Latitude": 50.8649561174141
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38472457771008,
+					50.8650341502006
+				]
+			},
+			"properties": {
+				"id": 69,
+				"CodeID": "BP-0069",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0069.jpg",
+				"Longitude": 4.38472457771008,
+				"Latitude": 50.8650341502006
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38470363616943,
+					50.8651491050088
+				]
+			},
+			"properties": {
+				"id": 70,
+				"CodeID": "BP-0070",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0070.jpg",
+				"Longitude": 4.38470363616943,
+				"Latitude": 50.8651491050088
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38464730978012,
+					50.8652303627044
+				]
+			},
+			"properties": {
+				"id": 71,
+				"CodeID": "BP-0071",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0071.jpg",
+				"Longitude": 4.38464730978012,
+				"Latitude": 50.8652303627044
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38439344999892,
+					50.865477246798
+				]
+			},
+			"properties": {
+				"id": 72,
+				"CodeID": "BP-0072",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0072.jpg",
+				"Longitude": 4.38439344999892,
+				"Latitude": 50.865477246798
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3845979110286,
+					50.8656858168671
+				]
+			},
+			"properties": {
+				"id": 73,
+				"CodeID": "BP-0073",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0073.jpg",
+				"Longitude": 4.3845979110286,
+				"Latitude": 50.8656858168671
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38467681407929,
+					50.865808473263
+				]
+			},
+			"properties": {
+				"id": 74,
+				"CodeID": "BP-0074",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0074.jpg",
+				"Longitude": 4.38467681407929,
+				"Latitude": 50.865808473263
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38472375273705,
+					50.8657881591043
+				]
+			},
+			"properties": {
+				"id": 75,
+				"CodeID": "BP-0075",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0075.jpg",
+				"Longitude": 4.38472375273705,
+				"Latitude": 50.8657881591043
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38457724436156,
+					50.8656734835327
+				]
+			},
+			"properties": {
+				"id": 76,
+				"CodeID": "BP-0076",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0076.jpg",
+				"Longitude": 4.38457724436156,
+				"Latitude": 50.8656734835327
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38443273305893,
+					50.8654580527845
+				]
+			},
+			"properties": {
+				"id": 77,
+				"CodeID": "BP-0077",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0077.jpg",
+				"Longitude": 4.38443273305893,
+				"Latitude": 50.8654580527845
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38407926836142,
+					50.8654212459137
+				]
+			},
+			"properties": {
+				"id": 78,
+				"CodeID": "BP-0078",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0078.jpg",
+				"Longitude": 4.38407926836142,
+				"Latitude": 50.8654212459137
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38391870290161,
+					50.8654270108624
+				]
+			},
+			"properties": {
+				"id": 79,
+				"CodeID": "BP-0079",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0079.jpg",
+				"Longitude": 4.38391870290161,
+				"Latitude": 50.8654270108624
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38376352190971,
+					50.8653954169625
+				]
+			},
+			"properties": {
+				"id": 80,
+				"CodeID": "BP-0080",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0080.jpg",
+				"Longitude": 4.38376352190971,
+				"Latitude": 50.8653954169625
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.383544921875,
+					50.8650839294631
+				]
+			},
+			"properties": {
+				"id": 81,
+				"CodeID": "BP-0081",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0081.jpg",
+				"Longitude": 4.383544921875,
+				"Latitude": 50.8650839294631
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.383582911171,
+					50.8650208168424
+				]
+			},
+			"properties": {
+				"id": 82,
+				"CodeID": "BP-0082",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0082.jpg",
+				"Longitude": 4.383582911171,
+				"Latitude": 50.8650208168424
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38331827521324,
+					50.8649121025876
+				]
+			},
+			"properties": {
+				"id": 83,
+				"CodeID": "BP-0083",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0083.jpg",
+				"Longitude": 4.38331827521324,
+				"Latitude": 50.8649121025876
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38329413533211,
+					50.8648638555186
+				]
+			},
+			"properties": {
+				"id": 84,
+				"CodeID": "BP-0084",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0084.jpg",
+				"Longitude": 4.38329413533211,
+				"Latitude": 50.8648638555186
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3830581009388,
+					50.8640411083402
+				]
+			},
+			"properties": {
+				"id": 85,
+				"CodeID": "BP-0085",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0085.jpg",
+				"Longitude": 4.3830581009388,
+				"Latitude": 50.8640411083402
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38304334878922,
+					50.8640114823994
+				]
+			},
+			"properties": {
+				"id": 86,
+				"CodeID": "BP-0086",
+				"TypePatrimoine": "banc public",
+				"Model": "Lattes de bois + pieds fonte (VAGUE)",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0086.jpg",
+				"Longitude": 4.38304334878922,
+				"Latitude": 50.8640114823994
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3840752354497,
+					50.8631100112062
+				]
+			},
+			"properties": {
+				"id": 87,
+				"CodeID": "BP-0087",
+				"TypePatrimoine": "banc public",
+				"Model": "Tronc sculpte",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0087.jpg",
+				"Longitude": 4.3840752354497,
+				"Latitude": 50.8631100112062
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38116446137428,
+					50.8629694837629
+				]
+			},
+			"properties": {
+				"id": 88,
+				"CodeID": "BP-0088",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0088.jpg",
+				"Longitude": 4.38116446137428,
+				"Latitude": 50.8629694837629
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3811859190464,
+					50.8629500148422
+				]
+			},
+			"properties": {
+				"id": 89,
+				"CodeID": "BP-0089",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0089.jpg",
+				"Longitude": 4.3811859190464,
+				"Latitude": 50.8629500148422
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38130795955658,
+					50.8630939153688
+				]
+			},
+			"properties": {
+				"id": 90,
+				"CodeID": "BP-0090",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0090.jpg",
+				"Longitude": 4.38130795955658,
+				"Latitude": 50.8630939153688
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.381299578187,
+					50.8630724834539
+				]
+			},
+			"properties": {
+				"id": 91,
+				"CodeID": "BP-0091",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0091.jpg",
+				"Longitude": 4.381299578187,
+				"Latitude": 50.8630724834539
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38129957818557,
+					50.8630724834531
+				]
+			},
+			"properties": {
+				"id": 92,
+				"CodeID": "BP-0092",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0092.jpg",
+				"Longitude": 4.38129957818557,
+				"Latitude": 50.8630724834531
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38129905782091,
+					50.8630614736215
+				]
+			},
+			"properties": {
+				"id": 93,
+				"CodeID": "BP-0093",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0093.jpg",
+				"Longitude": 4.38129905782091,
+				"Latitude": 50.8630614736215
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38162311911583,
+					50.863208189
+				]
+			},
+			"properties": {
+				"id": 94,
+				"CodeID": "BP-0094",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0094.jpg",
+				"Longitude": 4.38162311911583,
+				"Latitude": 50.863208189
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38161014155952,
+					50.8632269113653
+				]
+			},
+			"properties": {
+				"id": 95,
+				"CodeID": "BP-0095",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0095.jpg",
+				"Longitude": 4.38161014155952,
+				"Latitude": 50.8632269113653
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38159562647343,
+					50.8632441639741
+				]
+			},
+			"properties": {
+				"id": 96,
+				"CodeID": "BP-0096",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0096.jpg",
+				"Longitude": 4.38159562647343,
+				"Latitude": 50.8632441639741
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38163585960865,
+					50.8633021471092
+				]
+			},
+			"properties": {
+				"id": 97,
+				"CodeID": "BP-0097",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0097.jpg",
+				"Longitude": 4.38163585960865,
+				"Latitude": 50.8633021471092
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38162982463837,
+					50.8633182300098
+				]
+			},
+			"properties": {
+				"id": 98,
+				"CodeID": "BP-0098",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0098.jpg",
+				"Longitude": 4.38162982463837,
+				"Latitude": 50.8633182300098
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38136294484139,
+					50.8633029935778
+				]
+			},
+			"properties": {
+				"id": 99,
+				"CodeID": "BP-0099",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0099.jpg",
+				"Longitude": 4.38136294484139,
+				"Latitude": 50.8633029935778
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38133276998997,
+					50.8632877571408
+				]
+			},
+			"properties": {
+				"id": 100,
+				"CodeID": "BP-0100",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0100.jpg",
+				"Longitude": 4.38133276998997,
+				"Latitude": 50.8632877571408
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38130795955658,
+					50.8632657489452
+				]
+			},
+			"properties": {
+				"id": 101,
+				"CodeID": "BP-0101",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0101.jpg",
+				"Longitude": 4.38130795955658,
+				"Latitude": 50.8632657489452
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38166624423818,
+					50.8636558164904
+				]
+			},
+			"properties": {
+				"id": 102,
+				"CodeID": "BP-0102",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele C",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0102.jpg",
+				"Longitude": 4.38166624423818,
+				"Latitude": 50.8636558164904
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38171969679161,
+					50.8636205049083
+				]
+			},
+			"properties": {
+				"id": 103,
+				"CodeID": "BP-0103",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele C",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0103.jpg",
+				"Longitude": 4.38171969679161,
+				"Latitude": 50.8636205049083
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38172053392805,
+					50.8636320946253
+				]
+			},
+			"properties": {
+				"id": 104,
+				"CodeID": "BP-0104",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele C",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0104.jpg",
+				"Longitude": 4.38172053392805,
+				"Latitude": 50.8636320946253
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38173124422922,
+					50.8637058164889
+				]
+			},
+			"properties": {
+				"id": 105,
+				"CodeID": "BP-0105",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele C",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0105.jpg",
+				"Longitude": 4.38173124422922,
+				"Latitude": 50.8637058164889
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38170362312121,
+					50.8637149797554
+				]
+			},
+			"properties": {
+				"id": 106,
+				"CodeID": "BP-0106",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele C",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0106.jpg",
+				"Longitude": 4.38170362312121,
+				"Latitude": 50.8637149797554
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38156124422649,
+					50.8642224831546
+				]
+			},
+			"properties": {
+				"id": 107,
+				"CodeID": "BP-0107",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele D",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0107.jpg",
+				"Longitude": 4.38156124422649,
+				"Latitude": 50.8642224831546
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38135758042336,
+					50.8642891190492
+				]
+			},
+			"properties": {
+				"id": 108,
+				"CodeID": "BP-0108",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele D",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0108.jpg",
+				"Longitude": 4.38135758042336,
+				"Latitude": 50.8642891190492
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38133791090979,
+					50.8644174831516
+				]
+			},
+			"properties": {
+				"id": 109,
+				"CodeID": "BP-0109",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele D",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0109.jpg",
+				"Longitude": 4.38133791090979,
+				"Latitude": 50.8644174831516
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3813481926918,
+					50.8644617946682
+				]
+			},
+			"properties": {
+				"id": 110,
+				"CodeID": "BP-0110",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele D",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0110.jpg",
+				"Longitude": 4.3813481926918,
+				"Latitude": 50.8644617946682
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38138976693153,
+					50.8646056905288
+				]
+			},
+			"properties": {
+				"id": 111,
+				"CodeID": "BP-0111",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele D",
+				"Status": "c reparer",
+				"ToRepair": "Assise c remplacer|Assise c restaurer|Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0111.jpg",
+				"Longitude": 4.38138976693153,
+				"Latitude": 50.8646056905288
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38148364424706,
+					50.864580297174
+				]
+			},
+			"properties": {
+				"id": 112,
+				"CodeID": "BP-0112",
+				"TypePatrimoine": "banc public",
+				"Model": "Modele D",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0112.jpg",
+				"Longitude": 4.38148364424706,
+				"Latitude": 50.864580297174
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38281983511701,
+					50.865806738106
+				]
+			},
+			"properties": {
+				"id": 113,
+				"CodeID": "BP-0113",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0113.jpg",
+				"Longitude": 4.38281983511701,
+				"Latitude": 50.865806738106
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38287705183029,
+					50.8658017018777
+				]
+			},
+			"properties": {
+				"id": 114,
+				"CodeID": "BP-0114",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0114.jpg",
+				"Longitude": 4.38287705183029,
+				"Latitude": 50.8658017018777
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38305984016324,
+					50.8658149083822
+				]
+			},
+			"properties": {
+				"id": 115,
+				"CodeID": "BP-0115",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0115.jpg",
+				"Longitude": 4.38305984016324,
+				"Latitude": 50.8658149083822
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38309833407402,
+					50.8658110125322
+				]
+			},
+			"properties": {
+				"id": 116,
+				"CodeID": "BP-0116",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0116.jpg",
+				"Longitude": 4.38309833407402,
+				"Latitude": 50.8658110125322
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38332095742226,
+					50.8658440230195
+				]
+			},
+			"properties": {
+				"id": 117,
+				"CodeID": "BP-0117",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0117.jpg",
+				"Longitude": 4.38332095742226,
+				"Latitude": 50.8658440230195
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38336124393424,
+					50.8658574831906
+				]
+			},
+			"properties": {
+				"id": 118,
+				"CodeID": "BP-0118",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0118.jpg",
+				"Longitude": 4.38336124393424,
+				"Latitude": 50.8658574831906
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3834044188111,
+					50.8658524754062
+				]
+			},
+			"properties": {
+				"id": 119,
+				"CodeID": "BP-0119",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0119.jpg",
+				"Longitude": 4.3834044188111,
+				"Latitude": 50.8658524754062
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.383432,
+					50.865847
+				]
+			},
+			"properties": {
+				"id": 120,
+				"CodeID": "BP-0120",
+				"TypePatrimoine": "banc public",
+				"Model": "Metallique VESTA",
+				"Status": "OK",
+				"ToRepair": "",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0120.jpg",
+				"Longitude": 4.383432,
+				"Latitude": 50.865847
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3823558,
+					50.8663048
+				]
+			},
+			"properties": {
+				"id": 121,
+				"CodeID": "BP-0121",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0121.jpg",
+				"Longitude": 4.3823558,
+				"Latitude": 50.8663048
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3823558,
+					50.8663048
+				]
+			},
+			"properties": {
+				"id": 122,
+				"CodeID": "BP-0122",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0122.jpg",
+				"Longitude": 4.3823558,
+				"Latitude": 50.8663048
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38235616666666,
+					50.8663063055555
+				]
+			},
+			"properties": {
+				"id": 123,
+				"CodeID": "BP-0123",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0123.jpg",
+				"Longitude": 4.38235616666666,
+				"Latitude": 50.8663063055555
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38235616666666,
+					50.8663063055555
+				]
+			},
+			"properties": {
+				"id": 124,
+				"CodeID": "BP-0124",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0124.jpg",
+				"Longitude": 4.38235616666666,
+				"Latitude": 50.8663063055555
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3823558,
+					50.8663048
+				]
+			},
+			"properties": {
+				"id": 125,
+				"CodeID": "BP-0125",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0125.jpg",
+				"Longitude": 4.3823558,
+				"Latitude": 50.8663048
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3823558,
+					50.8663048
+				]
+			},
+			"properties": {
+				"id": 126,
+				"CodeID": "BP-0126",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0126.jpg",
+				"Longitude": 4.3823558,
+				"Latitude": 50.8663048
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.3823558,
+					50.8663048
+				]
+			},
+			"properties": {
+				"id": 127,
+				"CodeID": "BP-0127",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0127.jpg",
+				"Longitude": 4.3823558,
+				"Latitude": 50.8663048
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38508175,
+					50.8679237222222
+				]
+			},
+			"properties": {
+				"id": 147,
+				"CodeID": "BP-0147",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0147.jpg",
+				"Longitude": 4.38508175,
+				"Latitude": 50.8679237222222
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38508175,
+					50.8679275277777
+				]
+			},
+			"properties": {
+				"id": 148,
+				"CodeID": "BP-0148",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0148.jpg",
+				"Longitude": 4.38508175,
+				"Latitude": 50.8679275277777
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.38508175,
+					50.8679275277777
+				]
+			},
+			"properties": {
+				"id": 149,
+				"CodeID": "BP-0149",
+				"TypePatrimoine": "banc public",
+				"Model": "Planches de bois + pieds fonte",
+				"Status": "c reparer",
+				"ToRepair": "Assise c repeindre",
+				"StreetFR": "Parc Josaphat",
+				"HouseNumber": "",
+				"Municipality": "Schaerbeek",
+				"PostalCode": 1030,
+				"CompleteAddresses": "Parc Josaphat, 1030 Schaerbeek",
+				"Sector": "Parc Josaphat",
+				"Link": "images/BP-0149.jpg",
+				"Longitude": 4.38508175,
+				"Latitude": 50.8679275277777
+			}
+		}
+	]
+}
