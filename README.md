@@ -4,6 +4,8 @@ Inventory of Public Benches in Josaphat Park
 
 Cartography of of the public banks located in Josaphat Park.
 
+## Link
+
 ## Type od Study
 Cartography of street furniture managed by the municipality of Schaerbeek.
 
