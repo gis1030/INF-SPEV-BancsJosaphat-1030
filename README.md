@@ -1,4 +1,4 @@
-# INF-BancsJosaphat1030
+# Inventory of Public Benches in Josaphat Park
 Management and Enhancement of Street Furniture
 Inventory of Public Benches in Josaphat Park
 
