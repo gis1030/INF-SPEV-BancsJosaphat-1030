@@ -1,4 +1,4 @@
-# INF-Chantiers1030
+# INF-BancsJosaphat1030
 Management and Enhancement of Street Furniture
 Inventory of Public Benches in Josaphat Park
 
